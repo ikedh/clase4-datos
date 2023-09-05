@@ -1,4 +1,4 @@
-Nombre:
-Apellido
+Nombre: Miguel
+Apellido:
 Puesto:
 Ciudad:
